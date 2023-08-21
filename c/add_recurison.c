@@ -1,5 +1,5 @@
     #include <stdio.h>  
-    int fact (int);  
+    int fact (int); 
     int main()  
     {  
         int n,f;  
@@ -23,3 +23,5 @@
             return n*fact(n-1);  
         }  
     }  
+
+
